@@ -50,6 +50,10 @@ Landing page para marca de roupas com formulário de newsletter
 ### ✍️ [Blog Preview](https://datasetsprojeto.github.io/blog_preview_challenge-mentor/)
 Componente de preview de blog com design moderno e interativo
 
+## 🔭 Estátisticas
+
+![Commits](https://img.shields.io/github/commit-activity/m/datasetsprojeto/datasetsprojeto)
+
 ## 🌱 Metas de Aprendizado
 
 - [ ] Aprofundar conhecimentos em JavaScript avançado
