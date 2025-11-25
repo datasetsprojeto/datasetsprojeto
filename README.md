@@ -77,7 +77,7 @@ Componente de preview de blog com design moderno e interativo
 
 ---
 
-⭐️ *Do [renatosoarespereira](https://github.com/renatosoarespereira)*
+⭐️ *De [renatosoarespereira](https://github.com/renatosoarespereira)*
 <!--
 **datasetsprojeto/datasetsprojeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
