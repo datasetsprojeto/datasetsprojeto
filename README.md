@@ -52,7 +52,13 @@ Componente de preview de blog com design moderno e interativo
 
 ## 🔭 Estátisticas
 
-![Commits](https://img.shields.io/github/commit-activity/m/datasetsprojeto/datasetsprojeto)
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasetsprojeto&theme=monokai" alt="Detalhes do Perfil" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datasetsprojeto&theme=monokai" alt="Linguagens Mais Comuns" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datasetsprojeto&theme=monokai" alt="Repositórios por Linguagem" /></td>
+  </tr>
+</table>
 
 ## 🌱 Metas de Aprendizado
 
